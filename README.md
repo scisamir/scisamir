@@ -1,6 +1,6 @@
 ##### . 👋 Hi, I’m Samir Idris
 
-##### . 👀 I’m a Frontend Developer & DevOps Engineer
+##### . 👀 I’m a Frontend Developer & a DevOps Engineer
 
 ##### . 🌱 I’m currently Learning Full Stack Development
 
@@ -18,7 +18,7 @@
 
 ![](https://komarev.com/ghpvc/?username=scisamir&color=blue)
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=scisamir&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="50" style="vertical-align:top; margin:4px">
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=scisamir&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="50" style="vertical-align:top; margin:4px"> -->
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=scisamir&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"  height="40" style="vertical-align:top; margin:5px">
 
 ## Languages and Tools:
