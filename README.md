@@ -28,6 +28,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40"
 style="vertical-align:top; margin: 4px">
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" alt="powershell" height="40"
 style="vertical-align:top; margin: 4px">
@@ -42,8 +44,18 @@ style="vertical-align:top; margin: 4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40"
 style="vertical-align:top; margin: 4px">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
+<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
+<img src="" alt="css" height="40" style="vertical-align:top; margin: 4px">
+<img src="" alt="css" height="40" style="vertical-align:top; margin: 4px">
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> -->
