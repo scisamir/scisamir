@@ -1,6 +1,6 @@
 ##### . 👋 Hi, I’m Samir Idris
 
-##### . 👀 I’m a Frontend Developer
+##### . 👀 I’m a Frontend Developer & DevOps Engineer
 
 ##### . 🌱 I’m currently Learning Full Stack Development
 
@@ -8,18 +8,18 @@
 
 ##### . 📫 You can reach me via https://linktr.ee/scisamir
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=scisamir-web&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=scisamir&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=scisamir-web&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=scisamir&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scisamir-web&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scisamir&theme=dark)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scisamir-web&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scisamir&langs_count=5&theme=tokyonight)]()
 
-![](https://komarev.com/ghpvc/?username=scisamir-web&color=blue)
+![](https://komarev.com/ghpvc/?username=scisamir&color=blue)
 
-<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=scisamir-web&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="50" style="vertical-align:top; margin:4px"> -->
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=scisamir-web&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"  height="40" style="vertical-align:top; margin:5px">
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=scisamir&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="50" style="vertical-align:top; margin:4px"> -->
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=scisamir&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"  height="40" style="vertical-align:top; margin:5px">
 
 ## Languages and Tools:
 
