@@ -18,7 +18,7 @@
 
 ![](https://komarev.com/ghpvc/?username=scisamir&color=blue)
 
-<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=scisamir&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="50" style="vertical-align:top; margin:4px"> -->
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=scisamir&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=scisamir&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"  height="40" style="vertical-align:top; margin:5px">
 
 ## Languages and Tools:
@@ -54,8 +54,6 @@ style="vertical-align:top; margin: 4px">
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="css" height="40" style="vertical-align:top; margin: 4px">
-<img src="" alt="css" height="40" style="vertical-align:top; margin: 4px">
-<img src="" alt="css" height="40" style="vertical-align:top; margin: 4px">
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> -->
@@ -70,7 +68,7 @@ style="vertical-align:top; margin: 4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> -->
 
 <!--
-**Samueljr-web/Samueljr-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**scisamir/scisamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
