@@ -10,10 +10,10 @@
 
 **Building across distributed systems, blockchain and computational biology.**
 
-<br/>
+<br/><br/>
 
 ### 🏆 ENGINEERING TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=scisamir&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=-1&rank=-C,-B&title=Repositories,Commits,PullRequest,Followers,Experience,MultiLanguage" alt="GitHub Trophies" />
+<img src="https://trophy.ryglcloud.net/?username=scisamir&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=-1&rank=-C,-B&title=Repositories,Commits,PullRequest,Followers,Experience,MultiLanguage" alt="GitHub Trophies" />
 
 </div>
